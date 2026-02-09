@@ -3,25 +3,15 @@
 ## Description
 
 This repository contains a Power Bi dashboard of an E-commerce store to answer questions about the data. The insights of the dashboard can be found in the results.txt file.  This repository can be used as a starting point for anyone who wants to learn how to use Power Bi to analyze data.
-<!--Analyzed E-commerce store data. Created an interactive dashboard using Power BI.-->
 
 ## Screenshot
 
-![dashboard preview](https://github.com/avishek09/E-Commerce-Store-Analysis-/assets/75924699/5151c585-882b-4db4-b324-a8cc63256fb4)
+![dashboard preview](<img width="1286" height="719" alt="image" src="https://github.com/user-attachments/assets/c7992e55-374e-4fe5-ad56-ae00f71f6d36" />
+)
 
 ## Installation
 
 To run this project on your machine you need to install <a href="https://powerbi.microsoft.com/en-us/downloads/">Microsoft Power Bi</a>.
-
-<!-- ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![schema](MusicDatabaseSchema.png)
-    ``` -->
 
 ## Tools
 
@@ -38,9 +28,5 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 The project was successful in answering the set of questions about an E-commerce Store's performance. The results of the project can be found in result.txt file.
 
-
-<!--## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.-->
 
 
